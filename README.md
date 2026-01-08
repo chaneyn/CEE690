@@ -1,4 +1,4 @@
-# CEE690: Software Engineering for Earth and Environemental Sciences and Engineering
+# CEE690: Software Engineering for Spatial Data Analysis
 ## Spring 2026
 
 ## Course Information

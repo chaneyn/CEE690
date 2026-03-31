@@ -1,0 +1,12 @@
+{
+  "INPUT_FILE": "/hpc/home/nc153/spatialstats/data/era_interim_annual_197901_201512_upscaled_subset.nc",
+  "OUTPUT_FILE": "output_temporal_stats.nc",
+  "PLOT_FILE": "output_plot.png",
+  "VAR_NAME": "t2m",
+  "LAT_MIN": 5,
+  "LAT_MAX": 150,
+  "LON_MIN": 10,
+  "LON_MAX": 150,
+  "TIME_MIN": 0,
+  "TIME_MAX": 50
+}

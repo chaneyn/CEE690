@@ -1,0 +1,14 @@
+[tool.ruff.lint]
+# Enable Flake8 (E, F, W), Pylint (PL), and more
+select = [
+    "E",    # pycodestyle errors (Flake8)
+    "W",    # pycodestyle warnings (Flake8)
+    "F",    # Pyflakes (Flake8)
+    "PL",   # Pylint rules
+    "B",    # flake8-bugbear (common Flake8 plugin)
+    "I",    # isort (import sorting)
+    "D",    # pydocstyle (docstring checks)
+]
+
+# Optional: Ignore specific Pylint-style rules that are too noisy
+ignore = ["PLR0913"] # Example: ignore "too many arguments"

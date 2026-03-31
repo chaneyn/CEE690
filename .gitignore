@@ -1,0 +1,13 @@
+*.nc
+*.exe
+*.swp
+*pycache*
+*.png
+*.lprof
+*.err
+*.out
+*.lock
+*.so
+*.o
+*.a
+Miscellanous/input_output/*.zarr/

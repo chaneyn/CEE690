@@ -1,0 +1,9 @@
+Job started on dcc-comp-04 at Thu Feb  5 07:40:24 AM EST 2026
+Starting program...
+Configuration loaded from example.json
+Computing the statistics
+Visualizing the data
+Plot saved to output_plot.png
+Saving statistics to output_temporal_stats.nc
+Processing complete.
+Job finished at Thu Feb  5 07:40:49 AM EST 2026

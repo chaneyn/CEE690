@@ -1,0 +1,12 @@
+Job started on dcc-core-07 at Wed Feb  4 11:06:40 PM EST 2026
+Starting simulation...
+Configuration loaded from example.json
+Computing the statistics
+Visualizing the data
+Plot saved to output_plot.png
+Saving statistics to output_temporal_stats.nc
+Processing complete.
+Job finished at Wed Feb  4 11:06:45 PM EST 2026
+
+
+

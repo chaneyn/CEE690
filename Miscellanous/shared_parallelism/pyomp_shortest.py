@@ -26,7 +26,7 @@ def calculate_mean_pyomp(data):
 # 1. Setup Data
 niter = 10
 np.random.seed(1)
-data = np.random.randn(5000, 5000)
+data = np.random.randn(15000, 15000)
 
 # 3. Benchmark Numba-OpenMP
 # Warm-up (Compilation happens here)

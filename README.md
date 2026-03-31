@@ -48,14 +48,14 @@ Note that the schedule is subject to change (and will change).
 |02/19|High-Performance I/O|-|
 |02/24|Computing on spatial grids|-|
 |02/26|Introduction to compiled languages|-|
-|03/03|Project Presentations|
-|03/05|Project presentations II|
-|03/17|C++ essentials|Mid-term project report due]
-|03/19|Memory and pointers|
-|03/24|Multi-file architecture|
-|03/26|Makefiles and build systems|
-|03/31|Documentation and profiling II|
-|04/02|Parallelism II|
-|04/07|Debugging in Python and C++|
-|04/09|TBD|
-|04/14|TBD|
+|03/03|Project Presentations|-|
+|03/05|Project presentations II|-|
+|03/17|C++ essentials|Mid-term project report due|
+|03/19|Multi-file architecture|-|
+|03/24|Makefiles and build systems|-|
+|03/26|-|-|
+|03/31|Compiling into Python|-|
+|04/02|Debugging in Python and C++|-|
+|04/07|Documentation and profiling II|-|
+|04/09|Parallelism II|-|
+|04/14|TBD|-|

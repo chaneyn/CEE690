@@ -31,7 +31,6 @@ The course grade will be based on:
 ### Schedule
 Note that the schedule is subject to change (and will change).
 
-**Part I: Python**
 |Date|Topic|Assignments|
 |:-:|:-:|:-:|
 |01/08|The headless environment|-|
@@ -48,20 +47,15 @@ Note that the schedule is subject to change (and will change).
 |02/17|GPU computing in Python|-|
 |02/19|High-Performance I/O|-|
 |02/24|Computing on spatial grids|-|
-|02/26|TBD|Project 1/Homework 1 due|
-
-**Part II: Compiled languages**
-|Date|Topic|
-|:-:|:-:|
-|02/26|Compiled languages I|-|
-|03/03|Compiled languages II|
-|03/05|The build process|
-|03/17|Memory management and basic debugging|
-|03/19|Tensors in memory and data layout|
-|03/24|Computer architecture and cache|
-|03/26|Code documentation and profiling|
-|03/31|Code interoperability|
-|04/02|Shared memory parallelism II|
-|04/07|Distributed memory parallelism II|
-|04/09|Containers|
+|02/26|Introduction to compiled languages|-|
+|03/03|Project Presentations|
+|03/05|Project presentations II|
+|03/17|C++ essentials|Mid-term project report due]
+|03/19|Memory and pointers|
+|03/24|Multi-file architecture|
+|03/26|Makefiles and build systems|
+|03/31|Documentation and profiling II|
+|04/02|Parallelism II|
+|04/07|Debugging in Python and C++|
+|04/09|TBD|
 |04/14|TBD|
